@@ -1,0 +1,9 @@
+'I've never checked it by myself!
+Sub CelebrateBirthday(Date mybirthday)
+ Dim myname as String
+ myname = 'Yukimikan'
+ If (mybirthday = Today) then {
+  Msgbox "HAPPY BIRTHDAY for " & myname & "!!"
+ }
+
+End Sub

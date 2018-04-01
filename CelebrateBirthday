@@ -1,4 +1,4 @@
-'I've never checked it by myself!
+'Set in Startup.
 Sub CelebrateBirthday(Date mybirthday)
  Dim myname as String
  myname = 'Yukimikan'

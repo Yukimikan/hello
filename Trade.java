@@ -2,6 +2,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//現在未完成
+
 public class Trade {
 	// Be動詞の平叙文を疑問文に変えるプログラム
 	// 固有名詞のときは主語は大文字のまま。(修正)
